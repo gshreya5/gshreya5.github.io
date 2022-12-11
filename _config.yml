@@ -1,16 +1,14 @@
 ---
-title: Shreya Gupta <br> <small> This page showcases my projects in Data
-  Analytics/Data Science </small>
-logo: /images/logo.jpg?raw=true
+title: Shreya Gupta
+---
 description: Hi! I have worked for 2+ years. After one year of gap year, I
-  decided to transition to Data Analysis. I've worked as an Intern, Junior
+  decided to transition to Data Analysis.<br> I've worked as an Intern, Junior
   Developer, Senior Developer and Technical Lead in a product oriented edtech
-  startup, Cerebry.<br>I've also worked as an Intern at WNS, Gurgaon India.
+  startup, Cerebry.I've also worked as an Intern at WNS, Gurgaon India.
   <br>I hold a Bachelor's of Technology (B.Tech) degree in Computer
-  Science.  <br>I love to read books (My favorite is I am the Messenger by
-  Markus Zusak, the ending!), sketching and travelling.<br><br>add
-  certifications , resume, More projects give a button after projects <br><br>
-  <a href="https://www.linkedin.com/in/shreya-gupta-sg/">View My LinkedIn
-  Profile</a>
+  Science. <br><br>I love to read books (My favorite is I am the Messenger by
+  Markus Zusak, the ending!), sketching and travelling.
 git_url: https://github.com/gshreya5
+mail_url: mailto:shreyagupta5432@gmail.com
+linkedin_url: https://www.linkedin.com/in/shreya-gupta-sg/
 theme: jekyll-theme-minimal
