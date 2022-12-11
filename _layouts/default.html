@@ -16,7 +16,12 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}"><i class="fa fa-user" style="color:black"></i> {{ site.title | default: site.github.repository_name }}</a></h1>
-	<p align="center"><a href="pdf/resume.pdf"></a></p>
+
+       {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+	<p align="center"><a href="pdf/resume.pdf">Resume</a></p>
         
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
