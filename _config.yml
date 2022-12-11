@@ -1,69 +1,19 @@
-title: Shreya Gupta 
-This page showcases my projects in Data Analytics/Data Science.
-  <br><br>
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description:  Hi!! <br>
+---
+title: Shreya Gupta <br> <h6> This page showcases my projects in Data
+  Analytics/Data Science.</h6>
+logo: /images/logo.png?raw=true
+description: >-
+  Hi <br> I've worked as an Intern, Junior Developer, Senior
+  Developer and Technical Lead in a product oriented edtech startup,
+  Cerebry.<br>I've also worked as an Intern at WNS, Gurgaon India. <br>I hold a
+  Bachelor's of Technology (B.Tech) degree in Computer Science. I have worked
+  for 2+ years. After one year of gap year, I decided to transition to Data
+  Analysis. <br>I love to read books (My favorite is I am the Messenger by
+  Markus Zusak, the ending!), sketching and travelling. I cycle between other
+  hobbies depending on mood. <br><br>add certifications , resume, More projects
+  give a button after projects <br><br><br> <a
+  href="https://www.linkedin.com/in/shreya-gupta-sg/">View My LinkedIn
+  Profile</a>
 
-I've worked as an Intern, Junior Developer, Senior Developer and Technical Lead in a product oriented edtech startup, Cerebry.<br>
-I've also worked as an Intern at WNS, Gurgaon India. <br>
-
-I hold a Bachelor's of Technology (B.Tech) degree in Computer Science. I have worked for 2+ years. After one year of gap year, I decided to transition to Data Analysis. 
-
-<br>I love to read books (My favorite is I am the Messenger by Markus Zusak, the ending!), sketching
- and travelling. I cycle between other hobbies depending on mood. <br>
-<br>add certifications , resume, More projects give a button after projects <br>
-  <br><br>
-  <a href="https://www.linkedin.com/in/shreya-gupta-sg/">View My LinkedIn Profile</a> 
-
-  <nav class="sqs-svg-icon--list">
-    <a href="https://twitter.com/daventuri" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
-      <div>
-        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
-          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
-          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
-        </svg>
-      </div>
-    </a><a href="https://davidventuri.medium.com/" target="_blank" class="sqs-svg-icon--wrapper medium" aria-label="Medium">
-      <div>
-        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
-          <use class="sqs-use--icon" xlink:href="#medium-icon"></use>
-          <use class="sqs-use--mask" xlink:href="#medium-mask"></use>
-        </svg>
-      </div>
-    </a><a href="https://github.com/davidventuri" target="_blank" class="sqs-svg-icon--wrapper github" aria-label="David Venturi">
-      <div>
-        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
-          <use class="sqs-use--icon" xlink:href="#github-icon"></use>
-          <use class="sqs-use--mask" xlink:href="#github-mask"></use>
-        </svg>
-      </div>
-    </a><a href="https://www.linkedin.com/in/davidventuri" target="_blank" class="sqs-svg-icon--wrapper linkedin" aria-label="David Venturi">
-      <div>
-        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
-          <use class="sqs-use--icon" xlink:href="#linkedin-icon"></use>
-          <use class="sqs-use--mask" xlink:href="#linkedin-mask"></use>
-        </svg>
-      </div>
-    </a><a href="mailto:hello@davidventuri.com" target="_blank" class="sqs-svg-icon--wrapper email" aria-label="hello@davidventuri.com">
-      <div>
-        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
-          <use class="sqs-use--icon" xlink:href="#email-icon"></use>
-          <use class="sqs-use--mask" xlink:href="#email-mask"></use>
-        </svg>
-      </div>
-    </a>
-  </nav>
-
-<br><br>
-  <div class="socials">
-                       <ul>
-                         <li><a href="https://www.linkedin.com/in/kanikajindal02/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
-                         <li><a href="https://www.instagram.com/jindal_kanika" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                         <li><a href="mailto:jindalkanika02@gmail.com" target="_blank"><span class="ico-circle"><i class="ion-android-mail"></i></span></a></li>
-                         <li><a href="https://github.com/jindalkanika" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
- 		        <li><a href="https://www.youtube.com/channel/UCR1bgsuXHmXWDXJlua1mK4Q" target="_blank"><span class="ico-circle"><i class="ion-social-youtube"></i></span></a></li>
-                       </ul>
-                     </div>
-  
+  <nav class="sqs-svg-icon--list"> <a href="https://twitter.com/daventuri" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter"> <div> <svg class="sqs-svg-icon--social" viewBox="0 0 64 64"> <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use> <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use> </svg> </div> </a><a href="https://davidventuri.medium.com/" target="_blank" class="sqs-svg-icon--wrapper medium" aria-label="Medium"> <div> <svg class="sqs-svg-icon--social" viewBox="0 0 64 64"> <use class="sqs-use--icon" xlink:href="#medium-icon"></use> <use class="sqs-use--mask" xlink:href="#medium-mask"></use> </svg> </div> </a><a href="https://github.com/davidventuri" target="_blank" class="sqs-svg-icon--wrapper github" aria-label="David Venturi"> <div> <svg class="sqs-svg-icon--social" viewBox="0 0 64 64"> <use class="sqs-use--icon" xlink:href="#github-icon"></use> <use class="sqs-use--mask" xlink:href="#github-mask"></use> </svg> </div> </a><a href="https://www.linkedin.com/in/davidventuri" target="_blank" class="sqs-svg-icon--wrapper linkedin" aria-label="David Venturi"> <div> <svg class="sqs-svg-icon--social" viewBox="0 0 64 64"> <use class="sqs-use--icon" xlink:href="#linkedin-icon"></use> <use class="sqs-use--mask" xlink:href="#linkedin-mask"></use> </svg> </div> </a><a href="mailto:hello@davidventuri.com" target="_blank" class="sqs-svg-icon--wrapper email" aria-label="hello@davidventuri.com"> <div> <svg class="sqs-svg-icon--social" viewBox="0 0 64 64"> <use class="sqs-use--icon" xlink:href="#email-icon"></use> <use class="sqs-use--mask" xlink:href="#email-mask"></use> </svg> </div> </a> </nav><br><br> <div class="socials"> <ul> <li><a href="https://www.linkedin.com/in/kanikajindal02/" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li> <li><a href="https://www.instagram.com/jindal_kanika" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li> <li><a href="mailto:jindalkanika02@gmail.com" target="_blank"><span class="ico-circle"><i class="ion-android-mail"></i></span></a></li> <li><a href="https://github.com/jindalkanika" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li> <li><a href="https://www.youtube.com/channel/UCR1bgsuXHmXWDXJlua1mK4Q" target="_blank"><span class="ico-circle"><i class="ion-social-youtube"></i></span></a></li> </ul> </div>
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
